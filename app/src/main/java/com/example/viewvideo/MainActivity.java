@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
         //Video riverVideo = new Video("http://71.57.126.1/hls/index.m3u8");
         //Video riverVideo = new Video("udp://192.168.1.6:5000");
 
-
         mVideosList.add(riverVideo);
 
 
